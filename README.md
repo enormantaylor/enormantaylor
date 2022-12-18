@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erica Taylor</h1>
 <h3 align="center">A passionate software programmer from London</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw3xmYY5Wegf0qIkh0DTHToj&ust=1671472120386000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNihtYLdg_wCFQAAAAAdAAAAABAJ">
+
 
 - 🔭 I’m currently working on **a music app**
 
